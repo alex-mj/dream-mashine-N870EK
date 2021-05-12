@@ -1,4 +1,4 @@
-# dream-mashine-N870EK
+# dream-mashines-N870EK
 big sur
 
 графика работает с артефактами
